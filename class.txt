@@ -1,0 +1,60 @@
+class car:
+          top model
+          Base model
+          petrol
+          CNG gas
+          automatic
+          accelerator()
+          break()
+          tyres()
+          color()
+class D mart:
+          shopping
+          daily needs
+          trial rooms
+          security
+          payment
+          self service()
+          trolly()
+          discount()
+class Home:
+        color
+	rooms
+	doors
+	windows
+	address
+	area
+        kitchen
+	floors
+        open door()
+        light on()
+        lock()
+class Boys PG:
+	name
+	location
+	rent
+	rooms
+	beds
+	capacity
+	security	
+	food
+	WIFI
+	check in()
+	book room()
+	pay rent()
+	provide food()
+	provide WIFI()
+class mall:
+	name
+	location
+	floors\
+	shops
+	parking capacity
+	opening time
+	closing time
+	cinema
+	open mall()
+	park vehicle()
+	buy product()
+	watch movie()
+	order food()
